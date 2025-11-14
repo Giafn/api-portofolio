@@ -1,15 +1,3 @@
-Berikut **API Markdown Documentation** untuk semua file JSON kamu, termasuk **techstack.json**.
-
-Setiap endpoint menggunakan format:
-
-```
-{baseurl}/api/{namafile}
-```
-
-Metode selalu **GET**.
-
----
-
 # 📘 API Documentation (Markdown)
 
 ## Base URL
@@ -209,5 +197,3 @@ Jika file tidak ditemukan:
 ```
 
 ---
-
-Kalau mau aku buatkan versi **Swagger/OpenAPI**, **Postman Collection**, atau **HTML docs auto-generated**, tinggal bilang.
