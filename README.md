@@ -3,7 +3,7 @@
 ## Base URL
 
 ```
-{baseurl}
+https://giafauzan.my.id
 ```
 
 ---
