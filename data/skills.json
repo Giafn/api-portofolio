@@ -1,0 +1,6 @@
+{
+  "backend_frameworks": ["Node.js", "Go", "Python", "Java", "Spring Boot", "FastAPI", "Express.js"],
+  "databases": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "DynamoDB", "Cassandra"],
+  "infrastructure": ["AWS", "Google Cloud", "Kubernetes", "Docker", "Terraform"],
+  "tools": ["gRPC", "GraphQL", "REST APIs", "Message Queues", "Microservices", "Testing"]
+}

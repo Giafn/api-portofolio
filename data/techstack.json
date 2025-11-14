@@ -1,0 +1,26 @@
+{
+  "runtime_frameworks": {
+    "Go": "Expert",
+    "Node.js": "Expert",
+    "Python": "Proficient",
+    "Spring Boot": "Proficient"
+  },
+  "databases_caching": {
+    "PostgreSQL": "Expert",
+    "Redis": "Expert",
+    "MongoDB": "Proficient",
+    "Elasticsearch": "Proficient"
+  },
+  "cloud_devops": {
+    "AWS": "Expert",
+    "Kubernetes": "Proficient",
+    "Docker": "Expert",
+    "Terraform": "Proficient"
+  },
+  "observability": {
+    "Prometheus": "Expert",
+    "Datadog": "Proficient",
+    "ELK Stack": "Proficient",
+    "Jaeger": "Proficient"
+  }
+}

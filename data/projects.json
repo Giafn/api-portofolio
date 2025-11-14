@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "title": "High-Performance API Gateway",
+      "description": "Built a distributed API gateway handling 10M+ requests/day with sub-100ms latency",
+      "stack": ["Go", "gRPC", "Kubernetes", "Prometheus"],
+      "impact": "Reduced latency by 65%, improved throughput by 3x"
+    },
+    {
+      "title": "Microservices Architecture",
+      "description": "Redesigned monolithic application into scalable microservices",
+      "stack": ["Node.js", "Docker", "Kubernetes", "gRPC"],
+      "impact": "Reduced deployment time from 2h to 5min"
+    }
+  ]
+}
