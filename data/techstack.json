@@ -9,13 +9,12 @@
     "PostgreSQL": "Expert",
     "Redis": "Expert",
     "MongoDB": "Proficient",
-    "Elasticsearch": "Proficient"
+    "MySQL": "Proficient",
+    "Oracle DB": "Intermediate"
   },
   "cloud_devops": {
-    "AWS": "Expert",
-    "Kubernetes": "Proficient",
     "Docker": "Expert",
-    "Terraform": "Proficient"
+    "Kubernetes": "Proficient"
   },
   "observability": {
     "Prometheus": "Expert",

@@ -1,16 +1,22 @@
 {
   "projects": [
     {
-      "title": "High-Performance API Gateway",
-      "description": "Built a distributed API gateway handling 10M+ requests/day with sub-100ms latency",
-      "stack": ["Go", "gRPC", "Kubernetes", "Prometheus"],
-      "impact": "Reduced latency by 65%, improved throughput by 3x"
+      "title": "Asset Management System",
+      "description": "Developed a comprehensive asset management platform",
+      "stack": ["NestJS", "Vue.js", "PostgreSQL", "Redis"],
+      "impact": "Improved asset tracking efficiency by 40%"
     },
     {
-      "title": "Microservices Architecture",
-      "description": "Redesigned monolithic application into scalable microservices",
-      "stack": ["Node.js", "Docker", "Kubernetes", "gRPC"],
-      "impact": "Reduced deployment time from 2h to 5min"
+      "title": "Property Sales Management Platform",
+      "description": "Built a backend system for managing property sales and transactions",
+      "stack": ["Go", "React", "PostgreSQL", "Object Storage"],
+      "impact": "Streamlined sales processes, reducing transaction time by 25%"
+    },
+    {
+      "title": "Baznas Jabar Company information System CMS",
+      "description": "Developed a company information system for Baznas Jabar",
+      "stack": ["Laravel", "MySQL", "MeiliSearch"],
+      "impact": "Enhanced data management and reporting capabilities"
     }
   ]
 }
